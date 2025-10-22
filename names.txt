@@ -10,8 +10,5 @@ qwert
 hello
 hi
 project-possible
-<<<<<<< HEAD
 gt
-=======
 rally pro
->>>>>>> origin/master
